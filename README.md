@@ -1,4 +1,4 @@
-#📈 Investment Insights Streamlit App
+📈 #Investment Insights Streamlit App
 
 Welcome to the Investment Insights Streamlit app! This application provides data analysis and visualization tools to help you make informed investment decisions.
 
